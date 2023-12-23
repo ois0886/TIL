@@ -30,6 +30,8 @@
 
 [인텐트(Intent)](https://superohinsung.tistory.com/100)
 
+[LinearLayout](https://superohinsung.tistory.com/288)
+
 # Kotlin
 
 [data class란](https://superohinsung.tistory.com/58)
