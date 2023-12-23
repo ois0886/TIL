@@ -32,6 +32,8 @@
 
 [LinearLayout](https://superohinsung.tistory.com/288)
 
+[RelativeLayout](https://superohinsung.tistory.com/289)
+
 # Kotlin
 
 [data class란](https://superohinsung.tistory.com/58)
