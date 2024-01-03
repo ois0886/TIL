@@ -2,40 +2,6 @@
 중요한건 꺾이지 않는 마음<br>
 나만의 CS 공부 기록소
 
-# Android
-
-[안드로이드 4대 컴포넌트](https://superohinsung.tistory.com/54)
-
-[클린 아키텍처](https://superohinsung.tistory.com/74)
-
-[의존성 주입](https://superohinsung.tistory.com/135)
-
-[Context 란](https://superohinsung.tistory.com/99)
-
-[Intent 란](https://superohinsung.tistory.com/100)
-
-[Activity의 생명주기](https://superohinsung.tistory.com/56)
-
-[Fragment의 생명주기](https://superohinsung.tistory.com/86)
-
-[MVC](https://superohinsung.tistory.com/64)
-
-[MVP](https://superohinsung.tistory.com/65)
-
-[MVVM](https://superohinsung.tistory.com/66)
-
-[MVI](https://superohinsung.tistory.com/148)
-
-[컨텍스트(Context)](https://superohinsung.tistory.com/99)
-
-[인텐트(Intent)](https://superohinsung.tistory.com/100)
-
-[LinearLayout](https://superohinsung.tistory.com/288)
-
-[RelativeLayout](https://superohinsung.tistory.com/289)
-
-[ConstraintLayout](https://superohinsung.tistory.com/231)
-
 # Kotlin
 
 [data class란](https://superohinsung.tistory.com/58)
