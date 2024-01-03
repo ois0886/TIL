@@ -36,10 +36,6 @@
 
 [정규화(1차 2차 3차 BCNF)](https://superohinsung.tistory.com/111)
 
-# JAVA
-
-[Garbage Collction(가비지 컬렉션) 이란](https://superohinsung.tistory.com/128)
-
 # Algorithm
 
 [시간복잡도와 공간복잡도](https://superohinsung.tistory.com/112)
