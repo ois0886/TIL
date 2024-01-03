@@ -2,20 +2,6 @@
 중요한건 꺾이지 않는 마음<br>
 나만의 CS 공부 기록소
 
-# Kotlin
-
-[data class란](https://superohinsung.tistory.com/58)
-
-[enum class란](https://superohinsung.tistory.com/59)
-
-[sealed class란](https://superohinsung.tistory.com/61)
-
-[스코프 함수 정리](https://superohinsung.tistory.com/63)
-
-[static, object, companion object 정리](https://superohinsung.tistory.com/83)
-
-[코루틴(coroutine)](https://superohinsung.tistory.com/132)
-
 # OS
 
 [프로세스와 스레드](https://superohinsung.tistory.com/69)
